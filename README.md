@@ -35,17 +35,16 @@ Make sure you have Python installed (>=3.6).
 
 ## 📝 Example usage
 
--------- Welcome to simple calculator --------
-Enter the first number: 10
-Enter the second number: 0
-------- Which operation you'd like to do on this numbers? -------
-1.Add(+)
-2.Minus(-)
-3.Multiply(*)
-4.Devide(/)
-Enter your choice: 4
-you CANNOT divide the numers by ZERO
-
+-------- Welcome to simple calculator --------<br>
+Enter the first number: 10<br>
+Enter the second number: 0<br>
+------- Which operation you'd like to do on this numbers? -------<br>
+1.Add(+)<br>
+2.Minus(-)<br>
+3.Multiply(*)<br>
+4.Devide(/)<br>
+Enter your choice: 4<br>
+you CANNOT divide the numers by ZERO<br>
 ---
 
 ## ✍️ Author
